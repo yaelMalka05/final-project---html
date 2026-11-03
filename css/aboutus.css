@@ -1,0 +1,138 @@
+img {
+    width: 235px;
+}
+
+video {
+    width: 350px;
+    height: 200px;
+}
+
+body {
+    background-image: url(../picture/view/s/d4a8fbd9951e1c396ae5474673a438e1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+/*
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    padding: 5%;
+    color:black;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+   
+}
+section{
+    display: grid;
+    grid-template-columns: 30% 30% 30% 30%;
+    grid-template-rows: 18% 18%;
+    margin: 8%;
+    padding: 2%;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+    */
+#home_page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 5%; */
+    margin: 5%;
+    /* padding-top: 25%; */
+
+margin-top: 25%;
+
+    width: 92%;
+    /* height: 550%; */
+}
+
+/* a{
+    width: 30px;
+} */
+button {
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 20%;
+    border-color: white;
+    /* background-size: 30%; */
+    width: 13%;
+    /* height: 30%;
+    right: 700px; */
+    font-size: 11px;
+    background-color: white;
+    /* padding-right: 3%; */
+}
+
+h1 {
+    padding-top: 10%;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 16%;
+}
+
+/* #p{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+/* #picdown{
+    /* top: 780px;
+    right: 700px;
+    left: 50px; */
+/* display: flex;
+    justify-content: end; */
+/* align-items: center; */
+/* padding-top: 95%; */
+/* } */
+.divpic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 2%; */
+}
+
+
+
+
+@media only screen and (max-width: 1900px) {
+    body{
+        background-size: 100%  100%;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+button{
+    width: 30%;
+}
+
+
+
+
+
+
+
+}

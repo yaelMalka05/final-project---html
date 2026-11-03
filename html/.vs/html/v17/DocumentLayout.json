@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u05D9\u05D2\\\u05DE\u05DC\u05DB\u05D4 \u05D9\u05E2\u05DC\\\u05E4\u05D9\u05EA\u05D5\u05D7 web\\project\\html\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\\u05D9\u05D2\\\u05DE\u05DC\u05DB\u05D4 \u05D9\u05E2\u05DC\\\u05E4\u05D9\u05EA\u05D5\u05D7 web\\project\\html\\casual.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:casual.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "casual.html",
+              "DocumentMoniker": "H:\\\u05D9\u05D2\\\u05DE\u05DC\u05DB\u05D4 \u05D9\u05E2\u05DC\\\u05E4\u05D9\u05EA\u05D5\u05D7 web\\project\\html\\casual.html",
+              "RelativeDocumentMoniker": "casual.html",
+              "ToolTip": "H:\\\u05D9\u05D2\\\u05DE\u05DC\u05DB\u05D4 \u05D9\u05E2\u05DC\\\u05E4\u05D9\u05EA\u05D5\u05D7 web\\project\\html\\casual.html",
+              "RelativeToolTip": "casual.html",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAC8BAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-16T07:10:41.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pay 🛒</title>
+    <link rel="icon" href="../picture/view/888f32282dbae6ee6ac307da44e259a4.jpg">
+</head>
+
+<body>
+    <h2>payment form 🛒:</h2>
+    <form action="../html/payment.html">
+        <div>
+            <div>
+                <label for="name">full name:</label>
+                <input required placeholder="write your full name" type="text" name="name" id="name">
+            </div>
+            <br> <br>
+
+            <div>
+                <label for="email">email:</label>
+                <input type="email" name="email" id="email">
+            </div>
+            <br><br>
+            <div>
+                <label for="phone_num">phone number:</label>
+                <input required placeholder="write your phonenumber" type="tel" name="phone_num" id="phone_num">
+            </div>
+            <br><br>
+            <div>
+                <label for="date">date:</label>
+                <input type="date" name="date" id="date">
+            </div>
+            <br><br>
+            <div>
+                <h4>choose how do you pay :</h4>
+                <br>
+            </div>
+            <div>
+                <label for="credit">credit card</label>
+                <input type="radio" name="credit" id="credit" value="credit">
+            </div>
+            <br>
+            <div>
+                <label for="google_pay">google pay</label>
+                <input type="radio" name="google_pay" id="google_pay" value="google_pay">
+            </div>
+            <br>
+            <div>
+                <label for="bit">bit</label>
+                <input type="radio" name="bit" id="bit" value="bit">
+            </div>
+            <br> <br>
+            <div>
+                <textarea name="addres" rows="3" cols="30" id="addres"> addres: </textarea>
+                <br><br>
+            </div>
+            <br> <br>
+            <div>
+                <input type="submit">
+            </div>
+            <br> <br>
+        </div>
+    </form>
+
+    <a href="./home.html" id="home_page"> <button>back to home page ➡</button> </a>
+
+
+
+    <style>
+        h2 {
+            /* display: flex;
+    justify-content: center;
+    align-items: center; */
+            padding-bottom: 3%;
+        }
+
+        /* div { */
+            /* display: flex;
+    justify-content: center;
+    align-items: center; */
+            /* margin: 00000000%; */
+        /* } */
+
+        #home_page {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* padding: 5%; */
+            margin: 5%;
+            /* padding-top: 25%; */
+            margin-top: 25%;
+        }
+
+        button {
+            border-style: solid;
+            border-radius: 30px;
+            border-width: 10%;
+            border-color: white;
+            width: 12%;
+            font-size: 11px;
+            background-color: white;
+        }
+        @media only screen and (max-width: 500px) {
+
+button{
+    width: 30%;
+}
+
+
+
+
+
+
+
+}
+    </style>
+</body>
+
+</html>
